@@ -1,4 +1,125 @@
-# LeetCode-Solutions
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F7B93E&center=true&vCenter=true&width=650&lines=Welcome+to+my+LeetCode+Solutions;Practicing+Data+Structures+%26+Algorithms;Java+DSA+Problem+Solving"/>
+</p>
+
+# 🚀 LeetCode Solutions
+
+![GitHub repo size](https://img.shields.io/github/repo-size/vishwajeetsinghjii/LeetCode-Solutions)
+![GitHub last commit](https://img.shields.io/github/last-commit/vishwajeetsinghjii/LeetCode-Solutions)
+![GitHub stars](https://img.shields.io/github/stars/vishwajeetsinghjii/LeetCode-Solutions?style=social)
+
+This repository contains my solutions to **LeetCode problems** as part of my journey to improve **Data Structures & Algorithms (DSA)** and strengthen my **problem-solving skills**.
+
+Solutions are primarily written in **Java** and automatically pushed using **LeetHub**.
+
+---
+
+# 👨‍💻 About This Repository
+
+- 📚 Practicing **Data Structures & Algorithms**
+- 💻 Solving problems regularly on **LeetCode**
+- ☕ Solutions written mainly in **Java**
+- 🔁 Automatically synced using **LeetHub**
+- 📈 Tracking my **problem-solving progress**
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,git,github,vscode,idea"/>
+</p>
+
+---
+
+# 📊 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Vishwajeet_Singh_jii?theme=light&font=baloo&ext=contest"/>
+</p>
+
+---
+
+# 🧠 Topics Covered
+
+| Topic | Status |
+|------|------|
+| Arrays | ⏳ |
+| Hashing | ⏳ |
+| Two Pointers | ⏳ |
+| Sliding Window | ⏳ |
+| Binary Search | ⏳ |
+| Stack | ⏳ |
+| Queue | ⏳ |
+| Linked List | ⏳ |
+| Trees | ⏳ |
+| Graphs | ⏳ |
+| Dynamic Programming | ⏳ |
+
+*(Will update as I progress through different DSA topics.)*
+
+---
+
+# 📈 Difficulty Progress
+
+| Difficulty | Status |
+|------------|--------|
+| Easy | ⏳ |
+| Medium | ⏳ |
+| Hard | ⏳ |
+
+---
+
+# 📁 Repository Structure
+
+Each problem is stored in its own folder using the **LeetCode problem number and title**.
+
+<details>
+<summary>Click to view example structure</summary>
+
+# 📂 Repository Structure
+
+Each problem is stored in its own folder using the LeetCode problem number and title.
+
+```LeetCode-Solutions
+├── 0001-two-sum
+│   ├── solution.java
+│   └── README.md
+│
+├── 0003-longest-substring-without-repeating-characters
+│   ├── solution.java
+│   └── README.md
+│
+├── 0009-palindrome-number
+│   ├── solution.java
+│   └── README.md
+│
+└── 0121-best-time-to-buy-and-sell-stock
+    ├── solution.java
+    └── README.md
+```
+
+</details>
+---
+
+# 🌐 Coding Profile
+
+**LeetCode:**  
+https://leetcode.com/Vishwajeet_Singh_jii
+
+---
+
+# 🎯 Goals
+
+- Solve **300+ LeetCode problems**
+- Master common **DSA patterns**
+- Improve **problem-solving ability**
+- Prepare for **software engineering interviews**
+
+---
+
+⭐ This repository will continue to grow as I solve more problems and improve my understanding of algorithms and data structures.
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
