@@ -126,4 +126,16 @@ https://leetcode.com/Vishwajeet_Singh_jii
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+## Array
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## String
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Simulation
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
