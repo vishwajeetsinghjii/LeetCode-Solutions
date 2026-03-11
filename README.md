@@ -143,4 +143,8 @@ https://leetcode.com/Vishwajeet_Singh_jii
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1009-complement-of-base-10-integer](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1009-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->
