@@ -129,6 +129,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 ## Array
 |  |
 | ------- |
+| [1470-shuffle-the-array](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## String
