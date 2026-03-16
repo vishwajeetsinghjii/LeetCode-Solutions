@@ -126,6 +126,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0069-sqrtx) |
 ## Array
 |  |
 | ------- |
@@ -160,4 +161,8 @@ https://leetcode.com/Vishwajeet_Singh_jii
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
