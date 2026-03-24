@@ -136,6 +136,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | [1732-find-the-highest-altitude](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2906-construct-product-matrix](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2906-construct-product-matrix) |
 ## String
 |  |
 | ------- |
@@ -149,6 +150,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
+| [2906-construct-product-matrix](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2906-construct-product-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -161,6 +163,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [2906-construct-product-matrix](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2906-construct-product-matrix) |
 ## Binary Search
 |  |
 | ------- |
