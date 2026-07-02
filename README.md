@@ -131,6 +131,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0905-sort-array-by-parity](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1470-shuffle-the-array](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -161,6 +162,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 ## Sorting
 |  |
 | ------- |
+| [0905-sort-array-by-parity](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Prefix Sum
@@ -177,4 +179,8 @@ https://leetcode.com/Vishwajeet_Singh_jii
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1051-height-checker) |
+## Two Pointers
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
