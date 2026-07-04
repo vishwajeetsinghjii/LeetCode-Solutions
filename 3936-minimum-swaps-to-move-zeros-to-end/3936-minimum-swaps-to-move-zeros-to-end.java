@@ -9,10 +9,9 @@ class Solution {
             } else if (nums[j] == 0) {
                 j--;
             } else {
-                int temp = nums[i];
-                nums[i] = nums[j];
-                nums[j] = temp;
                 swapCount++;
+                i++;
+                j--;
             }
         }
         return swapCount;
