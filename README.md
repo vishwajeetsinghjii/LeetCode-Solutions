@@ -130,6 +130,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | [0069-sqrtx](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0989-add-to-array-form-of-integer](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 ## Array
 |  |
 | ------- |
@@ -139,6 +140,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | [0189-rotate-array](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0989-add-to-array-form-of-integer](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1051-height-checker](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1470-shuffle-the-array](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
