@@ -136,6 +136,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | ------- |
 | [0035-search-insert-position](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -168,6 +169,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1009-complement-of-base-10-integer](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1009-complement-of-base-10-integer) |
 ## Sorting
