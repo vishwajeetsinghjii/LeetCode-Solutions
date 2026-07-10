@@ -131,6 +131,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | [0189-rotate-array](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
+| [1512-number-of-good-pairs](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Array
 |  |
 | ------- |
@@ -146,6 +147,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | [1051-height-checker](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1470-shuffle-the-array](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1512-number-of-good-pairs](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -198,6 +200,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | ------- |
 | [0169-majority-element](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [1051-height-checker](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1051-height-checker) |
+| [1512-number-of-good-pairs](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -210,6 +213,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | [0169-majority-element](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [1512-number-of-good-pairs](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
