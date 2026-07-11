@@ -132,6 +132,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | [0268-missing-number](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1512-number-of-good-pairs](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [2235-add-two-integers](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 ## Array
 |  |
 | ------- |
