@@ -127,6 +127,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | ------- |
 | [0009-palindrome-number](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -160,11 +161,13 @@ https://leetcode.com/Vishwajeet_Singh_jii
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Matrix
@@ -175,6 +178,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1009-complement-of-base-10-integer](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1009-complement-of-base-10-integer) |
