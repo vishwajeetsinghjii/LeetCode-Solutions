@@ -157,6 +157,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | [1929-concatenation-of-array](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2906-construct-product-matrix](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2906-construct-product-matrix) |
+| [3917-count-indices-with-opposite-parity](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/3917-count-indices-with-opposite-parity) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## String
 |  |
