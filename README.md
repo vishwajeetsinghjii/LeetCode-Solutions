@@ -135,6 +135,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2235-add-two-integers) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
 | ------- |
@@ -157,6 +158,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | [1929-concatenation-of-array](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2906-construct-product-matrix](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2906-construct-product-matrix) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3917-count-indices-with-opposite-parity](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/3917-count-indices-with-opposite-parity) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## String
@@ -172,6 +174,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | [0067-add-binary](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -194,6 +197,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | [0905-sort-array-by-parity](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -216,6 +220,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | ------- |
 | [0189-rotate-array](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0905-sort-array-by-parity](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
 |  |
@@ -229,4 +234,8 @@ https://leetcode.com/Vishwajeet_Singh_jii
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
