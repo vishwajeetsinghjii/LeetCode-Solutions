@@ -12,7 +12,9 @@ class Solution {
         int mx = 0;
         int[] prefixGcd = new int[n];
         for(int i=0; i<n; i++){
-            mx = Math.max(nums[i], mx);
+            if(nums[i]>mx){
+                mx = nums[i];
+            }
             prefixGcd[i] = gcd(nums[i], mx);
         }
         Arrays.sort(prefixGcd);
