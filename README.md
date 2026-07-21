@@ -130,6 +130,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | [0067-add-binary](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -146,6 +147,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | [0136-single-number](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -249,7 +251,12 @@ https://leetcode.com/Vishwajeet_Singh_jii
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
