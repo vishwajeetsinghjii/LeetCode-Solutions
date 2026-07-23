@@ -143,6 +143,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0136-single-number) |
@@ -230,6 +231,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
@@ -260,4 +262,8 @@ https://leetcode.com/Vishwajeet_Singh_jii
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
