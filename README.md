@@ -140,6 +140,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | [2235-add-two-integers](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
