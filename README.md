@@ -171,6 +171,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | [1929-concatenation-of-array](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2906-construct-product-matrix](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2906-construct-product-matrix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -230,6 +231,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | [0069-sqrtx](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting Sort
 |  |
 | ------- |
@@ -237,6 +239,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | [1051-height-checker](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
 | ------- |
