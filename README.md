@@ -174,6 +174,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [2678-number-of-senior-citizens](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2678-number-of-senior-citizens) |
 | [2906-construct-product-matrix](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2906-construct-product-matrix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3917-count-indices-with-opposite-parity](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/3917-count-indices-with-opposite-parity) |
@@ -184,6 +185,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | [0067-add-binary](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2678-number-of-senior-citizens](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2678-number-of-senior-citizens) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Simulation
 |  |
