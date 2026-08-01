@@ -159,6 +159,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | [0268-missing-number](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0905-sort-array-by-parity](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0989-add-to-array-form-of-integer](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1051-height-checker](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1051-height-checker) |
@@ -191,6 +192,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0682-baseball-game](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -281,4 +283,8 @@ https://leetcode.com/Vishwajeet_Singh_jii
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
