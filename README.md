@@ -161,6 +161,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | [0628-maximum-product-of-three-numbers](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [0766-toeplitz-matrix](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0905-sort-array-by-parity](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0989-add-to-array-form-of-integer](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1051-height-checker](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1051-height-checker) |
@@ -202,6 +203,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 ## Matrix
 |  |
 | ------- |
+| [0766-toeplitz-matrix](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [1672-richest-customer-wealth](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [2906-construct-product-matrix](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2906-construct-product-matrix) |
 ## Bit Manipulation
