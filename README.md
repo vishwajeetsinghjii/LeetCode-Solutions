@@ -157,6 +157,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | [0204-count-primes](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0645-set-mismatch) |
@@ -233,6 +234,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [1732-find-the-highest-altitude](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2906-construct-product-matrix](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2906-construct-product-matrix) |
@@ -295,4 +297,8 @@ https://leetcode.com/Vishwajeet_Singh_jii
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0682-baseball-game) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
