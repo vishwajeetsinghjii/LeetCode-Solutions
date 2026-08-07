@@ -150,6 +150,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | ------- |
 | [0011-container-with-most-water](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0136-single-number) |
@@ -196,6 +197,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -205,6 +207,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0766-toeplitz-matrix](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [1672-richest-customer-wealth](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [2906-construct-product-matrix](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2906-construct-product-matrix) |
