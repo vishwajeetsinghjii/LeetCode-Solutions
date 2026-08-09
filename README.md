@@ -143,6 +143,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | [2469-convert-the-temperature](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2652-sum-multiples) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
@@ -296,6 +297,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Greedy
 |  |
 | ------- |
