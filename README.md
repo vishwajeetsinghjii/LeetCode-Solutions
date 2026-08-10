@@ -143,6 +143,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | [2469-convert-the-temperature](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2652-sum-multiples) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -184,6 +185,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | [2574-left-and-right-sum-differences](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2678-number-of-senior-citizens](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2678-number-of-senior-citizens) |
 | [2906-construct-product-matrix](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2906-construct-product-matrix) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3917-count-indices-with-opposite-parity](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/3917-count-indices-with-opposite-parity) |
 | [3925-concatenate-array-with-reverse](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
