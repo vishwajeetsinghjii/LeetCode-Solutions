@@ -155,6 +155,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | [0054-spiral-matrix](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0169-majority-element) |
@@ -214,6 +215,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | ------- |
 | [0054-spiral-matrix](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0766-toeplitz-matrix](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [1672-richest-customer-wealth](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [2906-construct-product-matrix](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2906-construct-product-matrix) |
@@ -253,6 +255,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | ------- |
 | [0035-search-insert-position](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
