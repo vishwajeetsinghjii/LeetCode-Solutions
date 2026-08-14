@@ -140,6 +140,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2235-add-two-integers) |
+| [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2413-smallest-even-multiple](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -311,6 +312,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Greedy
 |  |
