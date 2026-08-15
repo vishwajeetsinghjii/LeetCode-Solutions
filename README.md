@@ -138,6 +138,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | [1512-number-of-good-pairs](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
@@ -212,6 +213,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | [0682-baseball-game](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
