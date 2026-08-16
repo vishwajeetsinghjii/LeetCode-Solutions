@@ -145,6 +145,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | [2413-smallest-even-multiple](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2525-categorize-box-according-to-criteria](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2525-categorize-box-according-to-criteria) |
 | [2652-sum-multiples](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2652-sum-multiples) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
