@@ -186,6 +186,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | [1732-find-the-highest-altitude](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -258,6 +259,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [1732-find-the-highest-altitude](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [1991-find-the-middle-index-in-array](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2906-construct-product-matrix](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2906-construct-product-matrix) |
 ## Binary Search
