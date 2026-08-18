@@ -177,6 +177,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | [0905-sort-array-by-parity](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0989-add-to-array-form-of-integer](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1051-height-checker](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1051-height-checker) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
@@ -213,6 +214,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | [0059-spiral-matrix-ii](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1929-concatenation-of-array](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -227,6 +229,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | [0074-search-a-2d-matrix](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0766-toeplitz-matrix](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0766-toeplitz-matrix) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1672-richest-customer-wealth](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [2906-construct-product-matrix](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2906-construct-product-matrix) |
 ## Bit Manipulation
@@ -298,6 +301,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | [0268-missing-number](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
