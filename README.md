@@ -137,6 +137,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1952-three-divisors](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -314,6 +315,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -321,6 +323,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Greedy
@@ -339,4 +342,12 @@ https://leetcode.com/Vishwajeet_Singh_jii
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
