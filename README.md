@@ -200,6 +200,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | [3917-count-indices-with-opposite-parity](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/3917-count-indices-with-opposite-parity) |
 | [3925-concatenate-array-with-reverse](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## String
 |  |
 | ------- |
@@ -258,6 +259,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -276,6 +278,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | [0268-missing-number](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -326,6 +329,7 @@ https://leetcode.com/Vishwajeet_Singh_jii
 | [1952-three-divisors](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/vishwajeetsinghjii/LeetCode-Solutions/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Greedy
 |  |
 | ------- |
